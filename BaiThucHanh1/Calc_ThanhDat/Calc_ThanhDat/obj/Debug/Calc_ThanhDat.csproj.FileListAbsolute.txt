@@ -1,0 +1,10 @@
+D:\Project_Windows\BaiThucHanh1\Calc_ThanhDat\Calc_ThanhDat\bin\Debug\Calc_ThanhDat.exe.config
+D:\Project_Windows\BaiThucHanh1\Calc_ThanhDat\Calc_ThanhDat\bin\Debug\Calc_ThanhDat.exe
+D:\Project_Windows\BaiThucHanh1\Calc_ThanhDat\Calc_ThanhDat\bin\Debug\Calc_ThanhDat.pdb
+D:\Project_Windows\BaiThucHanh1\Calc_ThanhDat\Calc_ThanhDat\obj\Debug\Calc_ThanhDat.csproj.AssemblyReference.cache
+D:\Project_Windows\BaiThucHanh1\Calc_ThanhDat\Calc_ThanhDat\obj\Debug\Calc_ThanhDat.Properties.Resources.resources
+D:\Project_Windows\BaiThucHanh1\Calc_ThanhDat\Calc_ThanhDat\obj\Debug\Calc_ThanhDat.csproj.GenerateResource.cache
+D:\Project_Windows\BaiThucHanh1\Calc_ThanhDat\Calc_ThanhDat\obj\Debug\Calc_ThanhDat.csproj.CoreCompileInputs.cache
+D:\Project_Windows\BaiThucHanh1\Calc_ThanhDat\Calc_ThanhDat\obj\Debug\Calc_ThanhDat.exe
+D:\Project_Windows\BaiThucHanh1\Calc_ThanhDat\Calc_ThanhDat\obj\Debug\Calc_ThanhDat.pdb
+D:\Project_Windows\BaiThucHanh1\Calc_ThanhDat\Calc_ThanhDat\obj\Debug\Calculator.Form1.resources
